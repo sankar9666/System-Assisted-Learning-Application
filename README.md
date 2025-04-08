@@ -1,2 +1,3 @@
 # System-Assisted-Learning-Application
 A system-assisted learning application is an intelligent educational tool that enhances student learning by recommending personalized resources and monitoring comprehension. It uses MATLAB for video suggestions based on keywords and employs facial emotion analysis to assess student understanding. If confusion is detected, the system suggests alternative videos to ensure effective learning. This approach bridges knowledge gaps, making education more adaptive and student-centric.
+![image](https://github.com/user-attachments/assets/5a55ea5b-98ad-40ed-97ef-30e8a43c704f)
